@@ -25,3 +25,5 @@ Dimensions    | 144 x 73.6 x 8.1 mm         | 139.2 x 68.5 x 8.9 mm
 Everyone who helped me at #sailfishos-porters on freenode, especially [mal](https://github.com/mlehtima)
 
 Jolla for SailfishOS :)
+
+And you for supporting this project <3 !
