@@ -3,7 +3,7 @@
   <remote  name="private" fetch="https://github.com/" />
 
   <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-12.1" />
-  <project name="TheMuppets/proprietary_vendor_xiaomi" path="vendor/xiaomi" revision="cm-12.1"/>
+  <project name="alireza1219/proprietary_vendor_cancro" path="vendor/xiaomi/cancro" revision="cm-12.1"/>
 
   <project name="CancroSailfishOS/android_device_xiaomi_cancro" path="device/xiaomi/cancro" remote="private" revision="hybris-12.1" />
   <project name="CancroSailfishOS/android_kernel_xiaomi_cancro" path="kernel/xiaomi/cancro" remote="private" revision="hybris-12.1" />
